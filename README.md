@@ -1,3 +1,5 @@
+## [심사기준](./Evaluation.md)
+
 ### 참고 사항
 
 - 각 팀은 [해커톤 전용 Organization](https://github.com/dgsw-2019-hackathon)에서 하나의 팀을 사용하실 수 있습니다.
