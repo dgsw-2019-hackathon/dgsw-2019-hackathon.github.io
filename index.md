@@ -15,7 +15,7 @@
   - `git clone [레포지토리 git 주소]`
   - Remote 레포지토리를 로컬에 복사하는 작업
   - 레포지토리 git 주소는 아래 버튼으로 복사 가능
-  - ![](images/1.png)
+  - ![wow](https://github.com/dgsw-2019-hackathon/dgsw-2019-hackathon.github.io/blob/master/images/1.PNG?raw=true)
 
 - add
 
