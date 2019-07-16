@@ -8,7 +8,7 @@
 
 ### Git 기본 사용법
 
-- 참고: https://backlog.com/git-tutorial/kr/
+- 참고: [https://backlog.com/git-tutorial/kr/](https://backlog.com/git-tutorial/kr/)
 
 - clone
 
