@@ -3,7 +3,7 @@
 - 각 팀은 [해커톤 전용 Organization](https://github.com/dgsw-2019-hackathon)에서 하나의 팀을 사용하실 수 있습니다.
   - 팀명은 `dgsw_team_(num)` 형식으로 임의 지정되어 만들어져 있으며, 추후 자신이 원하는 팀명으로 변경할 수 있습니다. (Github 특성상 한글 불가능)
   - 현재 콜라보레이터로 레포지토리에 초대돼있는 사람이 많습니다.
-    통계를 위해 자신의 팀 설정에서 초대.
+    통계를 위해 자신의 팀 설정에서 초대해주세요.
     ![image](https://user-images.githubusercontent.com/32216112/61262801-91505b00-a7c1-11e9-9d24-adf01835df33.png)
 
   
